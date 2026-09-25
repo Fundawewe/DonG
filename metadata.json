@@ -1,0 +1,6 @@
+{
+  "name": "Barista OS - Café Operations & Barista Training",
+  "description": "Operating system for cafés: espresso dialing, TDS/EY refractometry, staff training modules, barista certification exams, equipment maintenance, stock inventory, and branch productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
